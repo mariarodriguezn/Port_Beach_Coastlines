@@ -11,7 +11,7 @@ The workflow proposed by Krause et al. (2021) comprises six main steps as visual
 
 ## Directory structure 
 
-All the methods implemented in this study were carried out using the DEA Sandbox.\
+All the steps were implemented using the DEA Sandbox.\
 `data`: Geojson input files\
 `figures`: Output plots of coastal change trends and erosion rates\
 `notebooks`: Implementation of Methodology for Port Beach
