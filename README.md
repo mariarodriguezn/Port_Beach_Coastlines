@@ -7,7 +7,7 @@ In this repository, you find the supporting data and notebook used for the appli
 ## Main Steps Methodology
 
 The workflow proposed by Krause et al. (2021) comprises six main steps as visually displayed below:
-![Methodology]()
+![Methodology](https://github.com/mariarodriguezn/Port_Beach_Coastlines/blob/main/figures/Methodology.png)
 
 ## Directory structure 
 
