@@ -1,5 +1,7 @@
 # Coastline change in Port Beach (Western Australia) from 1988 to 2022
 
+Check for the complete scientific paper [here](https://github.com/mariarodriguezn/mariarodriguezn.github.io/raw/main/Files%20and%20Documents/A&M_Paper.pdf)
+
 Historical coastline movement data is essential for effective coastal planning and management as it provides valuable insights into erosive or accretion trends and aids in identifying erosion hotspots for prioritizing mitigation measures. While aerial photography is commonly used for coastline extraction, it often incurs high costs, limited historical imagery archives, and spatial coverage. Addressing this challenge, Krause et al. (2021) proposed a simplified methodology that leverages the open and free Landsat Analysis Ready (ARD) products of the Digital Earth Australia (DEA) datacube to identify and extract coastlines along the Australian coastline. The approach incorporates the Modified Normalized Difference Water Index (MNDWI) for land-water distinction, tide modeling based on the FES2014 model, composites to reduce imagery noise, and subpixel extraction of coastlines. 
 
 In this repository, you find the supporting data and notebook used for the application of this methodology to map the coastlines of Port Beach, Western Australia, from 1988 and 2022 with a primary focus on identifying coastal change patterns and calculating rates.
